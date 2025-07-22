@@ -13,7 +13,7 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://authentication-system-henna.vercel.app'
+  'https://authenticationsystem-niraj.vercel.app'
 ];
 
 app.use(express.json());
